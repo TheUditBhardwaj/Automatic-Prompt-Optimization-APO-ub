@@ -386,18 +386,6 @@ Additionally, `apo_database.db` (SQLite) stores all runs, steps, predictions, an
 
 ---
 
-## Video Walkthrough
-
-<!-- TODO: Replace with actual video link -->
-Video link: [Unlisted YouTube / Google Drive link here]
-
-Contents:
-- The ExtractBench bundle the system was run against.
-- Walkthrough of the code structure: optimization process, scoring function, and configuration layer.
-- A representative optimization run with the score curve.
-- One key observation from the work.
-
----
 
 ## Constraints and Notes
 
