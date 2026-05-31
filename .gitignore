@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv
+env/
+venv/
+ENV/
+
+
+# Environment / API keys
+.env
+api_key_manager/.env
+
+
+# Database
+*.db
+
+# Dataset (large PDF files — not for git)
+dataset/
+
+# Project output directories
+output/
+output_*/
+
+# IDE files
+.vscode/
+.idea/
+.DS_Store
+
+# Misc
+pipeline/
